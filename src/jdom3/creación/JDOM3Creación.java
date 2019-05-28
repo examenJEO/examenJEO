@@ -20,6 +20,9 @@ public class JDOM3Creación {
      * @param args the command line arguments
      */
     @SuppressWarnings("ConvertToTryWithResources")
+    /*
+    *empieza el main
+    */
     public static void main(String[] args) {
         // TODO code application logic here
         
